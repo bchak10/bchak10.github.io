@@ -2,7 +2,8 @@ project:
   type: website
 
 website:
-  title: "."
+  title: "Bridget Chak"
+  site-url: https://bchak10.github.io
   navbar:
     left:
       - href: index.qmd
